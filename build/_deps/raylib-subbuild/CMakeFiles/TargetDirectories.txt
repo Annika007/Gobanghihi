@@ -1,0 +1,3 @@
+/home/zbh/Desktop/Gobang/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+/home/zbh/Desktop/Gobang/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+/home/zbh/Desktop/Gobang/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
