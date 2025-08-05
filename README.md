@@ -213,5 +213,5 @@ ChessEngine对外的接口有4个：
 - **someOneWin** 用来确认当前是否有人已经赢了
 - **searchFloor** 储存搜索层数，用来调节难度
 
-<img src="README.assets/image-20231225230602710.png" alt="image-20231225230602710" style="zoom: 50%;" />
+
 
